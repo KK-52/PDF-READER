@@ -1,0 +1,8 @@
+streamlit==1.18.0
+langchain==0.0.212 
+transformers==4.29.0
+sentence-transformers==2.2.0
+PyPDF2==2.11.1 
+python-dotenv==1.0.0 
+faiss-cpu==1.7.4
+
